@@ -9,6 +9,7 @@ This project utilizes one-key private cipher.
 ## How to run
 
 **Compile the source code**
+
 1. Download `encdec.cpp`, `encdec.h`, `main.cpp`.
 2. Upload all the above cpp files and header file to a blank Github Codespace environmrnt.
 3. After uploading all the files to Github Codespace, create a text file called `file.txt`.
@@ -16,11 +17,13 @@ This project utilizes one-key private cipher.
 5. Open the terminal of Github Codespace environment, type `g++ -o main *.cpp` and press enter key.
 
 **Encryption**
+
 6. Type `./main` in the terminal.
 7. Enter 1 to encrypt `file.txt` and also enter your encryption key (a character).
 8. Check `encrypt.txt` to see the encrypted content.
 
 **Decryption**
+
 9. Type `./main` in the terminal.
 10. Enter 2 to decrypt `encrypt.txt` and also enter your decryption key (a character).
 11. Check `decrypt.txt` to see the decrypted content.
@@ -29,9 +32,13 @@ This project utilizes one-key private cipher.
 
 ***Sample output***
 
+<br>
+
 **Encryption key: K**
 
 **Decryption key: K**
+
+<br>
 
 Original content (file.txt):
 
