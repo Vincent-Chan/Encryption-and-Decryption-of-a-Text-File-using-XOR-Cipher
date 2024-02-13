@@ -11,10 +11,10 @@ This project utilizes one-key private cipher.
 **Compile the source code**
 
 1. Download `encdec.cpp`, `encdec.h`, `main.cpp`.
-2. Upload all the above cpp files and header file to a blank Github Codespaces environmrnt.
-3. After uploading all the files to Github Codespaces, create a text file called `file.txt`.
+2. Upload all the above cpp files and header file to a blank GitHub Codespaces environmrnt.
+3. After uploading all the files to GitHub Codespaces, create a text file called `file.txt`.
 4. Type anything you would like to encrypt inside `file.txt`.
-5. Open the terminal of Github Codespaces environment, type `g++ -o main *.cpp` and press enter key.
+5. Open the terminal of GitHub Codespaces environment, type `g++ -o main *.cpp` and press enter key.
 
 **Encryption**
 
