@@ -5,7 +5,7 @@ void encdec::encrypt()
 {
 	// Prompt the user to input the encryption key
 	cout << "Please input your encryption key (a character): ";
-    cin >> key;
+	cin >> key;
 
 	// Input stream & Output stream
 	fstream fin, fout;
